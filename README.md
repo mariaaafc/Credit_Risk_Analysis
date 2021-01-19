@@ -5,7 +5,7 @@ The purpose of this project is to evaluate the performance of different models t
 
 ## Results
 
-![Random_Sampling](Random_Sampling.png)
+![Random_Oversampling](Random_Oversampling.png)
 Balanced Accuracy Score: 0.64
 
 ![Undersampling](Undersampling.png)
